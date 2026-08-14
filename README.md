@@ -1,4 +1,4 @@
-# SwasthyaSetu — Intelligent Rural Healthcare Network
+# Intelligent Rural Healthcare Network
 ### Government of India · National Health Mission
 **Author:** Mubhashirin Naaz
 
