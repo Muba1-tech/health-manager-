@@ -100,34 +100,6 @@ Toggle via the **♿ button** (bottom right):
 
 ---
 
-## 🧪 Simulation Tests — All 10 Pass ✅
-
-| # | Scenario | Expected | Result |
-|---|----------|----------|--------|
-| T01 | Ramu, 45 — chest pain + sweating | EMERGENCY alert | ✅ |
-| T02 | Lakshmi, 28 — pregnant, swollen feet | Gynaecologist match | ✅ |
-| T03 | Elderly user, 72 — caretaker mode | UI transforms | ✅ |
-| T04 | Low internet simulation | Lite mode + SMS | ✅ |
-| T05 | Child profile (Riya, 8yrs) | Pediatrician priority | ✅ |
-| T06 | Symptom recurrence 4x/60 days | Chronic alert fires | ✅ |
-| T07 | No ambulance available | Relief engine activates | ✅ |
-| T08 | Prescription generated | Pharmacy comparison | ✅ |
-| T09 | Mobile clinic slot booked | Confirmation shown | ✅ |
-| T10 | Icon-only navigation | Full app usable | ✅ |
-
----
-
-## 🌍 Real Data Seeds
-
-- **12 doctors** across Gulbarga, Raichur, Bidar, Yadgir, Koppal, Latur
-- **5 mobile clinic vans** on real Tier-3 district routes
-- **5 family members** with authentic chronic condition profiles
-- **4 pharmacies** with realistic rural pricing (₹131–₹189)
-- **6 medicines** with correct generic names and dosages
-
----
-
-## 🔒 Medical Safety
 
 - AI outputs are **guidance only**, never diagnoses
 - Disclaimer visible on all AI result screens
